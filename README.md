@@ -70,7 +70,8 @@ GSM Commands List
 | `?help` | Sends a list of commands |
 ----
 
-##Stuff to Do/Implement
+Stuff to Do/Implement
+----
 
 + Hardware
 	- [x] Schematic
