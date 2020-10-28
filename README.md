@@ -12,7 +12,6 @@ Features
 - Crash / Accident detection and reporting.(done using the vibration sensor module and reported via Push Notifications and SMS/Call on phones of Guardians with GPS location data).
 - Movement Alert Mode: Alerts owners phone if vehicle has been moved when it was parked.
 - Sentry / Parking Mode: Automatically detects when owner parks and leaves area(out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement (interrupt function of MPU6050).
-- Device Tampering Detection : If owner is not nearby and the Module is forcefully removed notifies owner on phone.
 
 Features not yet Implemented
 ----
