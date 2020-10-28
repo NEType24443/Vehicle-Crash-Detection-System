@@ -22,16 +22,19 @@ Features not yet Implemented
 Images
 ---
 - Device:
+
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 > Prototype device
 
 - Location of the device in the Motorcycle:
+
 ![]()
 
 > Differs based on the Motorcycle make
 
 - Mobile App:
+
 ![]()
 
 > Latest iteration of the app
@@ -40,17 +43,17 @@ Images
 
 Components
 ------
-+ ###Main Hardware
++ Main Hardware
 	+ ESP32 development board
 	+ MPU-6050 Module
 	+ NEO-6M Module
 	+ SIM800L Module
-+ ###Power Components
++ Power Components
 	+ TP4056 Lithium Battery Charger Module
 	+ Li-ion battery 7800mAh 3.7V <- Doubtful of capacity
 	+ XL6009E1 Boost converter module (needs replacement)
 	+ LM2596 Buck converter module
-+ ###Miscellanious Components
++ Miscellanious Components
 	+ MAX3485 ( RS-232 <-> TTL, possibly can be used for controling the Mosfets )
 	+ IRF520 Mosfets ( 2, for toggling between using Li-ion and Motorcycle batteries)
 	+ 1N4007 Diodes ( To prevent Buck and Boost converter from taking power from the wrong end )
@@ -69,7 +72,7 @@ GSM Commands List
 
 ##Stuff to Do/Implement
 
-+ ###Hardware
++ Hardware
 	- [x] Schematic
 	- [x] Testing individulal modules
 		- [x] ESP32 DevKit V1
@@ -87,7 +90,7 @@ GSM Commands List
 	- [ ] Recharge Li-ion battery from motorcycle battery automatically
 	- [ ] PCB design (after everything works properly)
 ----
-+ ###Android Code
++ Android Code
 	- [x] Basic BLE communication
 	- [x] Getting location data
 	- [x] Sending phone location to ESP32 using BLE
@@ -95,7 +98,7 @@ GSM Commands List
 	- [ ] Active notifications for connection state
 	- [ ] Background service to send the data when phone screen is off
 ----
-+ ###Arduino Code
++ Arduino Code
 	- [x] Interrupts for ESP32
 	- [x] Peripheral interface code
 		- [x] MPU interfacing
