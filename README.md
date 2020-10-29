@@ -2,7 +2,14 @@
 # Vehicle Crash Detection and Reporting System
 
 
-[TOC]
+- [Vehicle Crash Detection and Reporting System](#vehicle-crash-detection-and-reporting-system)
+  * [Features](#features)
+  * [Features not yet Implemented](#features-not-yet-implemented)
+  * [Images](#images)
+  * [Components](#components)
+  * [GSM Commands List](#gsm-commands-list)
+  * [Stuff to Do/Implement](#stuff-to-do-implement)
+
 
 ----
 
