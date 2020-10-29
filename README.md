@@ -40,7 +40,7 @@ Images
 
 - Schematic:
 
-![]()
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/Schematic/VeCDeRS.png)
 
 > Latest Schematic
 
