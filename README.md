@@ -38,6 +38,12 @@ Images
 
 > Latest iteration of the app
 
+- Schematic:
+
+![]()
+
+> Latest Schematic
+
 ----
 
 Components
@@ -53,9 +59,10 @@ Components
 	+ XL6009E1 Boost converter module (needs replacement)
 	+ LM2596 Buck converter module
 + Miscellanious Components
-	+ MAX3485 ( RS-232 <-> TTL, possibly can be used for controling the Mosfets )
-	+ IRF520 Mosfets ( 2, for toggling between using Li-ion and Motorcycle batteries)
-	+ 1N4007 Diodes ( To prevent Buck and Boost converter from taking power from the wrong end )
+	+ MAX232 ( RS-232 <-> TTL, used for controling the Mosfets )
+	+ IRF520 Mosfet ( 1, for toggling between using Li-ion and Motorcycle batteries)
+	+ 2N7002 (3, for  toggling between using Li-ion and Motorcycle batteries)
+	+ 1N4007 Diodes (3, To prevent Buck and Boost converter from taking power from the wrong end  and )
 -------
 
 GSM Commands List
