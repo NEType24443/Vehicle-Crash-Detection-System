@@ -16,36 +16,49 @@
 Features
 ----
 
+
+- Travel Mode / Accident:  Detects a possible accident and reports it to the registered phone numbers.
+- Sentry / Parking Mode: Engaged when owner parks and leaves area (out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft.
 - SMS interface for compatibility with any device with a sim card and internet connection.
 - Mobile App for configuration and management of the device.
-- Crash / Accident detection and reporting.
-- Movement Alert Mode: Alerts owners phone if vehicle has been moved when it was parked.
-- Sentry / Parking Mode: Automatically detects when owner parks and leaves area(out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft.
+- BLE protocol usage to save power.
+- Uses last known phone location as a backup in case GPS signal is not available.
+----
 
 Features not yet Implemented
 ----
 - Analytics : Travel time, distance travelled, average speed.
 - Internal Li-Po battery is used as backup power supply in case vehicle battery is damaged in crash.
 
+----
 Images
 ---
 - Device:
 
-![]()
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/device_1_GIF.gif)
 
 > Prototype device
 
 - Location of the device in the Motorcycle:
 
-![]()
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/vehicle_1_GIF.gif)
 
 > Differs based on the Motorcycle make
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/vehicle_2_GIF.gif)
+
+> Device working under the seat
 
 - Mobile App:
 
-![]()
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg)
 
-> Latest iteration of the app
+> Home page when Bluetooth is on
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg)
+
+> New device registration page
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_loc.jpg)
+
+> Location/Device reset sync page
 
 - Schematic:
 
@@ -71,7 +84,7 @@ Components
 	+ MAX232 ( RS-232 <-> TTL, used for controling the Mosfets )
 	+ IRF520 Mosfet ( 1, for toggling between using Li-ion and Motorcycle batteries)
 	+ 2N7002 (3, for  toggling between using Li-ion and Motorcycle batteries)
-	+ 1N4007 Diodes (3, To prevent Buck and Boost converter from taking power from the wrong end  and )
+	+ 1N4007 Diodes (3, To prevent Buck and Boost converter from taking power from the wrong end and getting a the 4.2V required for SIM800L Module)
 -------
 
 GSM Commands List
