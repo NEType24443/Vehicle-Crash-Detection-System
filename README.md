@@ -53,7 +53,7 @@ Images
 
 - Mobile App:
 
-![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg)
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg = 100x)
 
 > Home page when Bluetooth is on
 
