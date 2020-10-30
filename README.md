@@ -18,16 +18,18 @@ Features
 
 
 - Travel Mode / Accident:  Detects a possible accident and reports it to the registered phone numbers.
-- Sentry / Parking Mode: Engaged when owner parks and leaves area (out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft.
-- SMS interface for compatibility with any device with a sim card and internet connection.
+- Sentry / Parking Mode: Engaged when owner parks and leaves area (out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft to owners phone.
+- SMS interface for compatibility with any device with a phone number.
+- Remote Location Request: Registered numbers can request the location of the device at anytime.
 - Mobile App for configuration and management of the device.
-- BLE protocol usage to save power.
+- Bluetooth Low Energy protocol used to connect to the owners phone and to save power.
 - Uses last known phone location as a backup in case GPS signal is not available.
 ----
 
 Features not yet Implemented
 ----
 - Analytics : Travel time, distance travelled, average speed.
+- Web Interface for configuration and analytics.
 - Internal Li-Po battery is used as backup power supply in case vehicle battery is damaged in crash.
 
 ----
