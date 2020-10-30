@@ -57,7 +57,7 @@ Images
 
 > Home page when Bluetooth is on
 
-<img src="(https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg" width="500" height="1000" />
+<img src="https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg" width="500" height="1000" />
 
 > New device registration page
 
