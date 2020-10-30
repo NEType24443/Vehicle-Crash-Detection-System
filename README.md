@@ -53,15 +53,15 @@ Images
 
 - Mobile App:
 
-![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg = 100x)
+<img src="https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg" width="500" height="1000" />
 
 > Home page when Bluetooth is on
 
-![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg)
+<img src="(https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg" width="500" height="1000" />
 
 > New device registration page
 
-![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_loc.jpg)
+<img src="https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_loc.jpg" width="500" height="1000" />
 
 > Location/Device reset sync page
 
