@@ -46,6 +46,7 @@ Images
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/vehicle_1_GIF.gif)
 
 > Differs based on the Motorcycle make
+
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/vehicle_2_GIF.gif)
 
 > Device working under the seat
@@ -55,9 +56,11 @@ Images
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_home_page_conn.jpg)
 
 > Home page when Bluetooth is on
+
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_reg.jpg)
 
 > New device registration page
+
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/app_loc.jpg)
 
 > Location/Device reset sync page
