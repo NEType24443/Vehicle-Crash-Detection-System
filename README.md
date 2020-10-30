@@ -17,7 +17,7 @@ Features
 ----
 
 
-- Travel Mode / Accident:  Detects a possible accident and reports it to the registered phone numbers.
+- Travel / Accident Mode :  Detects a possible accident and reports it to the registered phone numbers.
 - Sentry / Parking Mode: Engaged when owner parks and leaves area (out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft to owners phone.
 - SMS interface for compatibility with any device with a phone number.
 - Remote Location Request: Registered numbers can request the location of the device at anytime.
