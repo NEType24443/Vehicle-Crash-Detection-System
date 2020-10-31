@@ -8,7 +8,7 @@
   * [Images](#images)
   * [Components](#components)
   * [GSM Commands List](#gsm-commands-list)
-  * [Stuff to Do/Implement](#stuff-to-do-implement)
+  * [Stuff to Do/Implement](#stuff-to-do/implement)
 
 
 ----
