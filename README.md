@@ -15,8 +15,8 @@
 Abstract
 ----
 
-<p>   When driving a vehicle around there is always a chance that something may go wrong a person may pop up from your blind spot, you may hit a pothole-loose control and crash into something, a cow or dog may walk onto the road and you may swerve to avoid it may be hitting a neighboring vehicle, many such unexpected situations can occur on the road and even more so in India with the poorly designed roads in many places making them extremely dangerous to drive in. Two-wheelers are extremely common in India. It's a no brainer that motorbikes and scooters are not as safe as cars or buses as such we hear many cases of two-wheeler riders dying in accidents many of which do not get medical treatment on time for many reasons like lack of clarity as to where the victim is, or the absence of bystanders to call for an ambulance and the victim is unconscious, in any case, every second count to whether the victim lives or dies.</p>
-<p>   This DIY project was designed and built with the hopes of one day being able to help save the lives of two-wheeler riders and as such is open source and the schematics and code is free for all to use, and do note proper credits should be given to me if it is being used for any purpose other than testing and learning. Also, note no guarantee is given for the sound functioning of the system as this is <b><b>JUST A PROTOTYPE</b></b> as such some edge cases were unconsidered and many more features were unadded and some minor bugs still exist in the code.</p>
+<p>When driving a vehicle around there is always a chance that something may go wrong a person may pop up from your blind spot, you may hit a pothole-loose control and crash into something, a cow or dog may walk onto the road and you may swerve to avoid it may be hitting a neighboring vehicle, many such unexpected situations can occur on the road and even more so in India with the poorly designed roads in many places making them extremely dangerous to drive in. Two-wheelers are extremely common in India. It's a no brainer that motorbikes and scooters are not as safe as cars or buses as such we hear many cases of two-wheeler riders dying in accidents many of which do not get medical treatment on time for many reasons like lack of clarity as to where the victim is, or the absence of bystanders to call for an ambulance and the victim is unconscious, in any case, every second count to whether the victim lives or dies.</p>
+<p>This DIY project was designed and built with the hopes of one day being able to help save the lives of accident victims and as such is open source and the schematics and code is free for all to use, and do note proper credits should be given to me if it is being used for any purpose other than testing and learning. Also, note no guarantee is given for the sound functioning of the system as this is <b><b>JUST A PROTOTYPE</b></b> as such some edge cases were unconsidered and many more features were unadded and some minor bugs still exist in the code.</p>
 
 ----
 Features
@@ -107,6 +107,7 @@ GSM Commands List
 | `?deregister <password>`   | Deregisters the phone number. |
 | `?location` | Sends current location of the device if registered |
 | `?help` | Sends a list of commands |
+
 ----
 
 Stuff to Do/Implement
