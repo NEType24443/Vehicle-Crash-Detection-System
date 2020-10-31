@@ -1,7 +1,6 @@
 
 # Vehicle Crash Detection and Reporting System (VeCDeRS)
 
-
 - [Vehicle Crash Detection and Reporting System](#vehicle-crash-detection-and-reporting-system)
   * [Features](#features)
   * [Features not yet Implemented](#features-not-yet-implemented)
@@ -12,12 +11,18 @@
 
 
 ----
+Abstract
+----
 
+  When driving a vehicle around there is always a chance that something may go wrong a person may pop up from your blind spot, you may hit a pothole-loose control and hit something, a cow or dog may walk onto the road and you may swerve to avoid it maybe hitting a neighboring vehicle, many such unxpected situations can occur on the road and even more so in India with the poorly designed roads in many places making them extremely dangerous to drive in. Two wheelers are very common in India and it's a no brainer that motorbikes and scooters are not as safe as cars or buses as such we hear many cases of two wheeler riders dying in accidents many of which do not get medical treatment on time for many reasons like lack of clarity as to where the victim is, or the abscence of bystanders to call for an ambulance and the victim/s being unconscious, in any case every second counts to whether the victim lives or dies.
+  This DIY project was designed and built with the hopes of one day being able to help save the lives of two wheeler riders and as such is open source and the schematics and code is free for all to use, and do note proper credits should be given to me if it is being used for any purpose other than personal and for learning. Also note no guarantee is given for the sound functioning of the system as this is <b>JUST A PROTOTYPE</b> as such some edge cases were not considered and many more features were not added and some minor bugs still exist in the code.
+
+----
 Features
 ----
 
 
-- Travel / Accident Mode :  Detects a possible accident and reports it to the registered phone numbers.
+- Travel / Accident Mode: Detects a possible accident and reports it to the registered phone numbers.
 - Sentry / Parking Mode: Engaged when owner parks and leaves area (out of Bluetooth range), Saves power also by decreasing frequency of GPS / Bluetooth updates, Looks for changes in movement and reports attempted theft to owners phone.
 - SMS interface for compatibility with any device with a phone number.
 - Remote Location Request: Registered numbers can request the location of the device at anytime.
