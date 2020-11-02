@@ -128,6 +128,7 @@ Stuff to Do/Implement
 		- [x] Added JST terminal for 12V Battery
 	- [x] Added 2200uF capacitor between V<sub>cc</sub> and GND
 	- [x] Adding Li-Po battery and charger with boost converter
+	- [ ] Adding Driver Ckt, MOSFET's and MAX232 (Simulation Done)
 	- [ ] Recharge Li-ion battery from motorcycle battery automatically
 	- [ ] PCB design (after everything works properly)
 ----
