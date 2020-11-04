@@ -1,5 +1,5 @@
 
-# Vehicle Crash Detection and Reporting System (VeCDeRS)
+# Vehicle Crash Detection and Reporting System (VeCDeRS) V1.1
 
 - [Vehicle Crash Detection and Reporting System](#vehicle-crash-detection-and-reporting-system)
   * [Abstract](#abstract)
