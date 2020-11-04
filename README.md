@@ -71,11 +71,17 @@ Images
 
 > Location/Device reset sync page
 
+- Testing:
+
+![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/images/accident_thresh_test.gif)
+
+> Testing method for determining accident threshold, not scientific but gives a good baseline
+
 - Schematic:
 
 ![](https://github.com/NEType24443/Vehicle-Crash-Detection-System/blob/main/Schematic/VeCDeRS.png)
 
-> Latest Schematic
+> Latest Schematic V1.1
 
 ----
 
